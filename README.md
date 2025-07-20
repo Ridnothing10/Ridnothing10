@@ -42,7 +42,9 @@ I'm learning to code because I want to build things that are smart, fun, and use
 
 ## 📫 Connect With Me
 - GitHub: [Ridnothing10](https://github.com/Ridnothing10)
-
+- Linkedin: [Rid Nothing](https://www.linkedin.com/in/rid-nothing-538120376/)
+- codewars: [Ridnothing10](https://www.codewars.com/users/Ridnothing10)
+- leetcode: [Ridnothing10](https://leetcode.com/u/ridnothing10/)
 ---
 
 > "This is just the beginning. I'm building my future, one line of code at a time."  
