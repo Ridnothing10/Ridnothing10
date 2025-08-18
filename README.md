@@ -36,7 +36,7 @@ I'm learning to code because I want to build things that are smart, fun, and use
 - Python 3
 - VS Code
 - Git & GitHub
-- Linux on ChromeOS
+- Window 11 (I used to use Linux)
 
 ---
 
