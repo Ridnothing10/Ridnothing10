@@ -1,4 +1,4 @@
-## # 👋 Hi, I'm RidDev (username:Ridnothing10)
+## # 👋 Hi, I'm Rid.Dev (username:Ridnothing10)
 
 I'm a beginner programmer with a big vision and strong goals. I'm currently learning **Python**, and I plan to learn **C++**, **HTML**, **CSS**, and **JavaScript** in the future. I want to become a **Software Engineer** or do anything related to programming, insha’Allah.
 
@@ -48,6 +48,6 @@ I'm learning to code because I want to build things that are smart, fun, and use
 ---
 
 > "This is just the beginning. I'm building my future, one line of code at a time."  
-> — RidDev (username: Ridnothing10)
+> — Rid.Dev (username: Ridnothing10)
 
 And in the futrue, i will reveal my real name but right now im hiding it.
