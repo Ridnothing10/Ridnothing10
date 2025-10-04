@@ -50,4 +50,4 @@ I'm learning to code because I want to build things that are smart, fun, and use
 > "This is just the beginning. I'm building my future, one line of code at a time."  
 > — Rid.Dev (username: Ridnothing10)
 
-And in the futrue, i will reveal my real name but right now im hiding it.
+And in the future, i will reveal my real name but right now im hiding it.
